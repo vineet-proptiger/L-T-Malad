@@ -141,7 +141,6 @@ const Highlights = ({ setIsOpen }) => (
           textTransform: 'uppercase', margin: 0,
           display: 'flex', alignItems: 'center', justifyContent: 'center',
         }}>
-          <ArcIcon />
           PROJECT HIGHLIGHTS &amp; USPs
         </h2>
       </div>

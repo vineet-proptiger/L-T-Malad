@@ -72,7 +72,6 @@ const Overview = ({ setIsOpen }) => (
           textTransform: 'uppercase', margin: 0,
           display: 'flex', alignItems: 'center', justifyContent: 'center',
         }}>
-          <ArcIcon />
           PROJECT OVERVIEW
         </h2>
       </div>

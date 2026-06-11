@@ -48,7 +48,6 @@ const Sustainability = () => {
             color: '#684C1B', letterSpacing: '0.22em', textTransform: 'uppercase', margin: 0,
             display: 'flex', alignItems: 'center', justifyContent: 'center',
           }}>
-            <ArcIcon />
             SUSTAINABILITY FEATURES
           </h2>
         </div>

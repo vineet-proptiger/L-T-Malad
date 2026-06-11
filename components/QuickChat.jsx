@@ -33,7 +33,6 @@ export default function QuickChat() {
             color: '#684C1B', letterSpacing: '0.22em', textTransform: 'uppercase', margin: 0,
             display: 'flex', alignItems: 'center', justifyContent: 'center', flexWrap: 'wrap'
           }}>
-            <ArcIcon />
             Reply in one tap — get it on WhatsApp
           </h2>
         </div>

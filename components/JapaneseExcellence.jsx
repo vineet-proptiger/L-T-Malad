@@ -47,7 +47,6 @@ const JapaneseExcellence = () => {
             color: '#684C1B', letterSpacing: '0.22em', textTransform: 'uppercase', margin: 0,
             display: 'flex', alignItems: 'center', justifyContent: 'center',
           }}>
-            <ArcIcon />
             CRAFTED BY JAPANESE EXCELLENCE
           </h2>
           <p style={{

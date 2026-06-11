@@ -56,7 +56,6 @@ const Gallery = ({ setIsOpen }) => {
         {/* ── Header Row ── */}
         <div className="flex flex-col items-center justify-center mb-10">
           <div className="flex items-center justify-center">
-            <ArcIcon />
             <h2 style={{
               fontFamily: F_JOST, fontWeight: '700', fontSize: '18px',
               color: '#684C1B', letterSpacing: '0.22em', textTransform: 'uppercase', margin: 0,
