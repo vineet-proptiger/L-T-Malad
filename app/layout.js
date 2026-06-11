@@ -51,15 +51,15 @@ export default function RootLayout({ children }) {
               "@type": "Article",
               "mainEntityOfPage": {
                 "@type": "WebPage",
-                "@id": "https://vrxmagnaMalad East.in/"
+                "@id": "http://ltmaladnewlaunch.co.in/"
               },
               "headline": "L&T MALAD | Luxury 2, 3 & 4 BHK Balcony Homes in Malad East, Mumbai",
               "description": "L&T MALAD, Malad East's premier smart homes gated community with 437 units, 100 amenities, home automation. Apartments starting from ₹35 Lakhs. Project MahaRERA No. - Coming Soon",
-              "image": "https://vrxmagnaMalad East.in/_next/image?url=%2Fimages%2Fhero%2Fbanner1.webp&w=1200&q=75",
+              "image": "http://ltmaladnewlaunch.co.in/_next/image?url=%2Fimages%2Fhero%2Fbanner1.webp&w=1200&q=75",
               "author": {
                 "@type": "Organization",
                 "name": "Proptiger Marketing Services Pvt Ltd",
-                "url": "https://www.proptiger.com/chennai/Malad East/lnt-malad-3429300"
+                "url": "http://ltmaladnewlaunch.co.in/"
               },
               "publisher": {
                 "@type": "Organization",
