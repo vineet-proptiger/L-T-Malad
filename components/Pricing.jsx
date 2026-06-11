@@ -8,7 +8,7 @@ const units = [
   {
     type: "2 BHK",
     size: "830 - 900 Sq. Ft",
-    price: "₹ 2.99 - 3.24 Cr* Onwards",
+    price: "₹ 2.99 Cr* Onwards",
     oldPrice: null,
     btnText: "Express Your Interest",
     isPopular: false,

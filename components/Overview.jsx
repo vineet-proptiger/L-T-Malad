@@ -51,7 +51,7 @@ const CurvedCorners = ({ bg = '#fff' }) => {
 const infoItems = [
   { label: 'LOCATION',   value: 'Malad East, MUMBAI' },
   { label: 'TYPE',       value: '2, 3 & 4 BHK'  },
-  { label: 'PRICE',      value: 'FROM ₹35 LAKHS'          },
+  { label: 'Land Parcel', value: '2-acre' },
 ]
 
 const Overview = ({ setIsOpen }) => (

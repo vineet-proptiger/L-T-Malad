@@ -21,7 +21,7 @@ const Footer = () => (
       </div>
       <p style={{ fontSize: '15px', color: '#bbb', fontFamily: F_SANS, lineHeight: 1.8, marginBottom: '32px', textAlign: 'justify' }}
         data-aos="fade-in" data-aos-delay="100">
-        L&T MALAD is Malad East&apos;s premier smart homes gated community offering 2, 3 & 4 BHK apartments starting from ₹35 Lakhs. With 437 units, 100 world-class amenities, 76% open space, and home automation technology — L&T MALAD is designed for future-ready living near Malad East Metro Station and Parandur International Airport. RERA No: TN/02/Building/0036/2021.
+        L&T MALAD is Malad East&apos;s premier smart homes gated community offering 2, 3 & 4 BHK apartments starting from ₹35 Lakhs. With 437 units, 100 world-class amenities, 76% open space, and home automation technology — L&T MALAD is designed for future-ready living near Malad East Metro Station and Parandur International Airport.<br />Project MahaRERA No. - Coming Soon
       </p>
       {/* <div style={{ borderTop: '1px solid #333', marginBottom: '24px' }} /> */}
     </div>
