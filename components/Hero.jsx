@@ -238,7 +238,7 @@ const Hero = ({ setIsOpen }) => {
           {/* Bullet list */}
           <ul style={{ listStyle: 'none', padding: 0, margin: '0 0 14px' }}>
             {[
-              'Modern Studio, 1 & 2 BHK Residences',
+              'Luxury 2, 3 & 4 BHK Balcony Homes',
               'Expansive 6.5-Acre Community with 76% Open Spaces',
               '100+ Lifestyle Amenities & Smart Home Features',
               'Strategic Growth Corridor on Poonamallee High Road',

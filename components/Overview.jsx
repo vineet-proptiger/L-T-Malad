@@ -50,7 +50,7 @@ const CurvedCorners = ({ bg = '#fff' }) => {
 
 const infoItems = [
   { label: 'LOCATION',   value: 'Malad East, MUMBAI' },
-  { label: 'TYPE',       value: 'STUDIO, 1 BHK & 2 BHK'  },
+  { label: 'TYPE',       value: '2, 3 & 4 BHK'  },
   { label: 'PRICE',      value: 'FROM ₹35 LAKHS'          },
 ]
 
