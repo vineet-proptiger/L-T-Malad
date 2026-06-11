@@ -34,7 +34,7 @@ const nephilm = localFont({
 
 export const metadata = {
   title: 'L&T MALAD | Luxury 2, 3 & 4 BHK Balcony Homes in Malad East, Mumbai',
-  description: 'L&T MALAD — Malad East\'s premier smart homes gated community. Luxury 2, 3 & 4 BHK Balcony Homes starting from ₹35 Lakhs. 437 units, 100 amenities, home automation. Project MahaRERA No. - Coming Soon',
+  description: 'L&T MALAD — Malad East\'s premier residential project offering luxury 2, 3 & 4 BHK apartments starting from ₹2.80 Cr* Onwards. Spread across a 2-acre land parcel with world-class amenities.',
 }
 
 export default function RootLayout({ children }) {
@@ -54,7 +54,7 @@ export default function RootLayout({ children }) {
                 "@id": "http://ltmaladnewlaunch.co.in/"
               },
               "headline": "L&T MALAD | Luxury 2, 3 & 4 BHK Balcony Homes in Malad East, Mumbai",
-              "description": "L&T MALAD, Malad East's premier smart homes gated community with 437 units, 100 amenities, home automation. Apartments starting from ₹35 Lakhs. Project MahaRERA No. - Coming Soon",
+              "description": "L&T MALAD is Malad East's premier residential project offering luxury 2, 3 & 4 BHK apartments starting from ₹2.80 Cr* Onwards. Spread across a 2-acre land parcel with world-class amenities. Project MahaRERA No. - Coming Soon",
               "image": "http://ltmaladnewlaunch.co.in/_next/image?url=%2Fimages%2Fhero%2Fbanner1.webp&w=1200&q=75",
               "author": {
                 "@type": "Organization",
