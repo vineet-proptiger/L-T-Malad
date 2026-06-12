@@ -5,7 +5,7 @@ export default function robots() {
       allow: '/',
       disallow: '',
     },
-    sitemap: 'https://vrxmagnaMalad East.in/sitemap.xml',
+    sitemap: 'https://ltmaladnewlaunch.co.in/sitemap.xml',
   }
 }
 

@@ -1,5 +1,5 @@
 export default function sitemap() {
-  const base = 'https://vrxmagnaMalad East.in'
+  const base = 'https://ltmaladnewlaunch.co.in'
 
   return [
     {
